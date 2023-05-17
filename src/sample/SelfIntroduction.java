@@ -15,7 +15,7 @@ public class SelfIntroduction {
 		 * 自己紹介文を出力する処理
 		 */
 		
-		System.out.print("私の名前は" + name + "です。\n");
+		System.out.print("私の名前は" + name + "です");
 		System.out.print("年齢は" + age + "です。\n");
 		System.out.print("趣味は" + hobby + "です。\n");
 
